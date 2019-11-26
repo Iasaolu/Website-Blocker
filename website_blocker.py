@@ -3,6 +3,7 @@ from datetime import datetime as dt
 hosts_temp = "hosts"
 hosts_path = "/etc/hosts"
 redirect = "127.0.0.1"
+#Feel free to edit webite list
 website_list = ["www.facebook.com","facebook.com","www.instagram.com","instagram.com","www.twitter.com","twitter.com"]
 print(dt.now())
 while True:
